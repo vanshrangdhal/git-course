@@ -1,0 +1,2 @@
+Admin is responsible for communicating b/w client and Users
+Admin is responsible is something went wrong
