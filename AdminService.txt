@@ -1,2 +1,5 @@
 Admin is responsible for communicating b/w client and Users
 Admin is responsible is something went wrong
+admin handles some userdata
+manages the users
+manages the databases
