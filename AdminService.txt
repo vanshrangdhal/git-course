@@ -3,3 +3,4 @@ Admin is responsible is something went wrong
 admin handles some userdata
 manages the users
 manages the databases
+closing the database connection
