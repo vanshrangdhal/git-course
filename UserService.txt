@@ -1,7 +1,7 @@
 Get Data from Users
 Processing user-data....
 
-crearting a new avatar for user
+
 
 login and logout ...!
 
