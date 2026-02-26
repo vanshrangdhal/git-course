@@ -3,7 +3,7 @@ Admin is responsible is something went wrong
 admin handles some userdata
 manages the users
 manages the databases
-closing the vansh database connection
+closing the mysql database connection
 change 1
 
 change 2 in vansh database
