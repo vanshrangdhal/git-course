@@ -1,3 +1,4 @@
 user-service is created
 get data from users
-processing data from usersS
+processing data from users
+creating an avtar for new user
