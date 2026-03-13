@@ -1,2 +1,3 @@
 Admin is responsebile for managing users
 managing database
+closing the oracle database connection
