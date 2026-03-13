@@ -1,0 +1,2 @@
+Admin is responsebile for managing users
+managing database
