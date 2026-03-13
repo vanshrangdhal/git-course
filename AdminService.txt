@@ -2,6 +2,5 @@ Admin is responsebile for managing users
 managing database
 change 1
 change 2
-
 changes in vansh database
-
+closing the mysql database connection
