@@ -3,3 +3,4 @@ get data from users
 Creating a new user avtar
 login and logout
 change 1
+colsing the oracle database connection
